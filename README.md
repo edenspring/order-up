@@ -74,6 +74,16 @@ our blocks and fill in our code where necessary.
 The instructions aren't particularly clear here, but most of the unknown values
 in the given code can be gotten from `flask_login`.
 
+## Log out form
+Don't overthink the part about making the logout form go away. If
+current_user.is_anonymous holds the value of true, how can we take the opposite
+of that?
+
+## Menu model and data
+[SQLAlchemy Mappings][SQLAlchemy Mappings] may be useful when trying to figure
+out how to make your relationships on your model. `back_populates` is such a
+handy attribute to have access to!
+
 
 
 
