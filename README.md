@@ -91,6 +91,6 @@ handy attribute to have access to!
 [models.py]: ./app/models.py
 
 <!-- Links for feb cohort -->
-[Using SQLAlchemy With Flask]: https://open.appacademy.io/learn/js-py---pt-feb-2022-online/week-36---sqlalchemy-and-alembic/using-sqlalchemy-with-flask
-[SQLAlchemy Mappings]: https://open.appacademy.io/learn/js-py---pt-feb-2022-online/week-36---sqlalchemy-and-alembic/sqlalchemy-mappings
-[Using SQLAlchemy With Flask]: https://open.appacademy.io/learn/js-py---pt-feb-2022-online/week-36---sqlalchemy-and-alembic/using-sqlalchemy-with-flask
+[Using SQLAlchemy With Flask]: https://open.appacademy.io/learn/js-py---pt-apr-2022-online/week-36---sqlalchemy-and-alembic/using-sqlalchemy-with-flask
+[SQLAlchemy Mappings]: https://open.appacademy.io/learn/js-py---pt-apr-2022-online/week-36---sqlalchemy-and-alembic/sqlalchemy-mappings
+[Using SQLAlchemy With Flask]: https://open.appacademy.io/learn/js-py---pt-apr-2022-online/week-36---sqlalchemy-and-alembic/using-sqlalchemy-with-flask
